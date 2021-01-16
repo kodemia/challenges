@@ -20,3 +20,4 @@ la salida deberia ser:
 > Nota: el script deberia funcionar con cualquier arrelgo de strings
 
 > Nivel 2: Resulve el problema usando solo metodos de array (sin usar foreach)
+> Nivel 3: Resuleve el prblema usando reduce
