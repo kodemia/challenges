@@ -1,6 +1,6 @@
 # Extracción de números:
 
-En el archivo extraccionDePares.js, crea la función o funciones necesarias para lograr lo siguiente:
+En el archivo extraccionDeNumeros.js, crea la función o funciones necesarias para lograr lo siguiente:
 
 - Dado el array:
 
